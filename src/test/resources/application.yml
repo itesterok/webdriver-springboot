@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+  profiles:
+    active: local
+baseUrl: https://pro.housecallpro.com/pro/log_in
+credentials:
+  email: ${EMAIL}
+  password: ${PASSWORD}
