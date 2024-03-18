@@ -1,7 +1,6 @@
 # Example project
 
-This is a **demonstration** example project for end to end UI testing with **WebDriver** + **Spring boot** + **JUnit 5**
- + **Allure**.
+This is a **demonstration** example project for end to end UI testing with **WebDriver** + **Spring boot** + **JUnit 5** + **Allure**.
 
 Provided solution allows running tests in parallel, returning correct instance of Webdriver for each thread.
 
